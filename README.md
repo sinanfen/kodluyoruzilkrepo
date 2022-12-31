@@ -8,7 +8,7 @@ Bu repo [Patika](www.patika.dev) Back-End Eğitiminde oluşturduğumuz ilk repo.
 ## Installation
 
 ```
-git clone https://github.com/kirlangic05/kodluyoruzilkrepo.git
+git clone https://github.com/sinanfen/kodluyoruzilkrepo.git
 ```
 ## Usage
 Projeyi tamamladıktan sonra Visual Studio Code içerisinde açınız.
